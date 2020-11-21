@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <div> page </div>
+    <div> temporary </div>
   );
 }
 
