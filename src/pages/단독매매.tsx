@@ -1,11 +1,11 @@
 import React from 'react'
 
-const DashBoard = () => {
+const 단독매매 = () => {
     return (
         <div>
-            logedIn
+            
         </div>
     )
 }
 
-export default DashBoard
+export default 단독매매
